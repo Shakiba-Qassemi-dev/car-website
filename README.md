@@ -1,6 +1,6 @@
 # car-website
 car website
-![Image](https://github.com/user-attachments/assets/ade67a3f-bf63-400c-87ed-08e392169fa6)
+![Image](https://github.com/user-attachments/assets/ba38c6b4-93d5-44d4-885a-d600b0b8cb3f)
 - [Demo Project](https://shakiba-qassemi-dev.github.io/car-website/)
 
 -👩‍💻 Developed by shakiba qassemi
